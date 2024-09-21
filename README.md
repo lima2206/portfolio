@@ -1,17 +1,22 @@
 # Vitor Spricigo Lima
 
-<img src="https://imgur.com/a/ibQyVl9" alt="Foto" width="300" height="200" />
+<img src="https://i.imgur.com/yVSX6Og.jpeg" alt="Foto" width="300" height="300" />
 
 ## Introdução
 
-Faça uma breve introdução sobre você. Fale de sua formação e carreira. Caso aplicável, fale de publicações ou apresentações em eventos da área de computação. Inclua uma foto!
+Meu nome é Vitor Spricigo Lima tenho 22 anos. Meu primeiro contato com programação foi quando estava na Unicamp cursando Bacharelado em Música (Violão Popular), apesar de estar seguindo um sonho, sentia que a carreira profissional musical não parecia sustentável ou promissora para meus objetivos a longo prazo. Foi então que fiz um curso online de Python e me apaixonei pela programação e como podemos aplicar a lógica na resolução de problemas reais.
+
+Esse novo interesse por programação me levou a considerar a Fatec, onde tive a oportunidade de produzir projetos para empresas parceiras da faculdade. Esses projetos me permitiram experimentar e aprender com linguagens de programação como Java e Python, além de desenvolver minhas habilidades de negociação, trabalho em equipe e o uso de métodologias ágeis (Scrum).
+
+Atualmente, paralelamente à faculdade, estou me dedicando a cursos específicos de Java, uma linguagem que me atraiu e tem grande ação no mercado, e continuo me empenhando nos projetos acadêmicos, buscando ir além para aprimorar minhas Hard e Soft Skills.
 
 ## Contatos
-* [GIT](https://www.git.com)
-* [LinkedIn](https://www.linkedin.com)
+* [GitHub](https://github.com/lima2206)
+* [LinkedIn](https://www.linkedin.com/in/lima2206)
+* [E-mail](mailto:vitor.lima2206@gmail.com)
 
 ## Meus Principais Conhecimentos
-Apresente seus principais conhecimentos. Foque nos conhecimentos que possui maior domínio e que deseja desenvolver durante sua carreira.
+
 
 
 ## Meus Projetos

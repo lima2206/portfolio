@@ -1,6 +1,6 @@
 # Vitor Spricigo Lima
 
-<img src="https://imgur.com/yVSX6Og" alt="Foto" width="300" height="200" />
+<img src="https://imgur.com/a/ibQyVl9" alt="Foto" width="300" height="200" />
 
 ## Introdução
 

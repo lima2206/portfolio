@@ -40,12 +40,23 @@ O Professor Egydio buscava uma forma de automatizar o processo de informação d
 
 #### Solução
 Como solução, minha equipe desenvolveu um sistema que permite o usuário buscar, selecionar uma sala de forma dinâmica e enviar um chamado de manutenção em um computador com problemas de forma interativa. além de permitir ao administrador a criação de salas e mudança do seu layout.
-<details >
+<details>
 <summary>Detalhes</summary>
 
-* a
-* b
-* c
+* Seleção dos Computadores:
+<br>
+<img src="https://github.com/BuzzTech-API/API_ADS_1SEMESTE_2022.2/blob/main/doc/sprints/sprint3/img/teste/layout%20dos%20labs.gif?raw=true" width="480" height="270" >
+* Seleção de um Problema:
+<br>
+<img src="https://github.com/lima2206/TECHELP-SistemaOrdemServico/blob/main/doc/sprints/sprint3/img/teste/confirma%C3%A7%C3%A3o%20de%20envio.gif?raw=true" width="480" height="270" >
+
+* Edição da Sala:
+<br>
+<img src="https://github.com/BuzzTech-API/API_ADS_1SEMESTE_2022.2/blob/main/doc/sprints/sprint3/img/layout%20editavel.png?raw=true" width="480" height="270" >
+
+* Modificação de Status: 
+<br>
+<img src="https://github.com/BuzzTech-API/API_ADS_1SEMESTE_2022.2/blob/main/doc/sprints/sprint4/img/status.gif?raw=true" width="480" height="270" >
 
 </details>
 <br>
@@ -56,7 +67,7 @@ Como solução, minha equipe desenvolveu um sistema que permite o usuário busca
 
 * Python - Linguagem de Programação usada no Backend;
 * Flask - Microframework web, escrito em Python, utilizado no desenvolvimento do servidor Backend;
-* JavaScript - Linguagem de Programação, utilizada em algumas funcionalidades, como a de edição de salas.
+* JavaScript - Linguagem de Programação, utilizada em algumas funcionalidades, como a de edição de salas e em alguns gráficos.
 * HTML - Linguagem de Marcação utilizada para estruturar e organizar o conteúdo das páginas web;
 * CSS - Linguagem de Estilo, utilizado para estilizar as páginas web;
 * MySQL - Banco de Dados Relacional utilizado para armazenar e gerenciar os dados do software.
@@ -64,7 +75,7 @@ Como solução, minha equipe desenvolveu um sistema que permite o usuário busca
 #### Contribuições Pessoais
 No projeto, atuei como *Scrum Master*, sendo responsável por aprender e implementar o framework Scrum do zero. Organizei as Dailys, reuniões, reviews e interações e reuniões individuais para manter a equipe alinhada e garantir as entregas de cada sprint.
 <br>
-Como eramos uma equipe nova tanto em programação quanto em relações, tive que mediar conflitos e trabalhar junto a todos para manter a harmonia entre todos os integrantes o que foi uma ótima oportunidade de trabalhar minhas Soft Skills.
+Sendo nós uma equipe inexperiente tanto em programação quanto em relações, tive que mediar conflitos e trabalhar junto com todos para manter a harmonia entre todos os integrantes, o que foi uma ótima oportunidade de trabalhar minhas Soft Skills.
 <br>
 Participei também no desenvolvimento de FrontEnd de algumas páginas.
 

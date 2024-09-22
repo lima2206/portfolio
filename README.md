@@ -44,19 +44,15 @@ Como solução, minha equipe desenvolveu um sistema que permite o usuário busca
 <summary>Detalhes</summary>
 
 * Seleção dos Computadores:
-<br>
 <img src="https://github.com/BuzzTech-API/API_ADS_1SEMESTE_2022.2/blob/main/doc/sprints/sprint3/img/teste/layout%20dos%20labs.gif?raw=true" width="480" height="270" >
 
 * Seleção de um Problema:
-<br>
 <img src="https://github.com/lima2206/TECHELP-SistemaOrdemServico/blob/main/doc/sprints/sprint3/img/teste/confirma%C3%A7%C3%A3o%20de%20envio.gif?raw=true" width="480" height="270" >
 
 * Edição da Sala:
-<br>
 <img src="https://github.com/BuzzTech-API/API_ADS_1SEMESTE_2022.2/blob/main/doc/sprints/sprint3/img/layout%20editavel.png?raw=true" width="480" height="270" >
 
 * Modificação de Status: 
-<br>
 <img src="https://github.com/BuzzTech-API/API_ADS_1SEMESTE_2022.2/blob/main/doc/sprints/sprint4/img/status.gif?raw=true" width="480" height="270" >
 
 </details>

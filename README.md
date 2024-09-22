@@ -40,7 +40,7 @@ O Professor Egydio buscava uma forma de automatizar o processo de informação d
 
 #### Solução
 Como solução, minha equipe desenvolveu um sistema que permite o usuário buscar, selecionar uma sala de forma dinâmica e enviar um chamado de manutenção em um computador com problemas de forma interativa. além de permitir ao administrador a criação de salas e mudança do seu layout.
-<details>
+<details >
 <summary>Detalhes</summary>
 
 * a

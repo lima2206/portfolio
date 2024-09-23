@@ -26,17 +26,16 @@ Já tive contato com essas tecnologias:
 * React
 * MySQL
 * Firebase
-* Scrum
 * HTML
 * CSS
 
 ## Meus Projetos
 
 ### Em 2022-2 - TECHELP
-*TECHELP* é um Sistema Web para Controle de Ordens de Serviço que permite o monitoramento dos computadores dos laboratórios da faculdade desenvolvido para o Professor Antonio Egydio da Fatec de São José dos Campos.
+*TECHELP* é um Sistema Web para Controle de Ordens de Serviço que permite o monitoramento dos computadores dos laboratórios da faculdade. Desenvolvido para o Professor Antonio Egydio da Fatec de São José dos Campos.
 
 #### Problema
-O Professor Egydio buscava uma forma de automatizar o processo de informação de equipamentos dos laboratórios de informática com mau funcionamento.
+Os computadores dos laboratórios da Fatec de São José dos Campos estavam aparencendo com problemas de Software, mouses quebrados e monitores com defeitos. Os técnicos não tinham uma forma simples de saber quais computadores estavam com defeito. O Professor Egydio da Fatec de São José dos Campos, precisava de uma forma de automatizar o processo de informação de equipamentos dos laboratórios de informática com mau funcionamento.
 
 #### Solução
 Como solução, minha equipe desenvolveu um sistema que permite o usuário buscar, selecionar uma sala de forma dinâmica e enviar um chamado de manutenção em um computador com problemas de forma interativa. além de permitir ao administrador a criação de salas e mudança do seu layout.

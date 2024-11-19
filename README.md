@@ -287,35 +287,71 @@ Fiquei particularmente satisfeito com o meu crescimento no entendimento da arqui
 
 <hr>
 
+<!-- Quinto SEMESTRE -->
 
-<!-- ### Em 2021-2
-Fale sobre o projeto desenvolvido. Apresente a empresa parceira, o problema e a solução entregue pela equipe (mínimo de um parágrafo por item). Recomenda-se o uso de figuras (ou até mesmo vídeos) para ilustrar os principais projetos.
+### Em 2024-2 - ClimaTrack
+*ClimaTrack* é um Aplicativo Móvel desenvolvido para a empresa Kersys, voltado para agricultores, com o objetivo de monitorar temperatura e pluviosidade em áreas selecionadas, além de oferecer acesso ao histórico climático e alertas personalizados via notificações.
 
-[GIT](https://www.git.com)
+#### Problema
+A empresa Kersys buscava uma solução que permitisse aos usuários cadastrar uma área através de um mapa, e a partir daí, ter acesso a dados climáticos de chuva e temperatura da área e que esses dados pudessem ser de uma data a partir da escolha do usuário. Também era necessário um sistema de notificações e alertas personalizado para que o usuário soubesse se houve alguma flutuação extrema de clima durante um período de tempo, além de ser possível utilizá-lo sem internet.
+
+#### Solução
+Como solução, eu e minha equipe desenvolvemos um Aplicativo que permite o usuário escolher uma área através de uma interface de mapa ou digitando suas coordenadas e monitorá-la através de gráficos do histórico climático, que também emite alertas em situações críticas configuradas pelo usuário. O aplicativo foi projetado para funcionar sem conexão à internet, garantindo acessibilidade contínua.
+
+<details>
+<summary>Detalhes</summary>
+
+* <b>Tela Pesquisar Local: </b>
+<img controls src="https://raw.githubusercontent.com/BuzzTech-API/API_ADS_5SEMESTE_2024.2/main/Documentação/Img/Prototipo/SearchScreen%20-%20alta%20fidelidade.png"/>
+
+###
+
+* <b>Tela Resultados da Pesquisa: </b>
+<img controls src="https://raw.githubusercontent.com/BuzzTech-API/API_ADS_5SEMESTE_2024.2/main/Documentação/Img/Prototipo/ResultScreen%20-%20alta%20fidelidade.png"/>
+
+###
+
+* <b>Tela Minhas Áreas: </b>
+<img controls src="https://raw.githubusercontent.com/BuzzTech-API/API_ADS_5SEMESTE_2024.2/main/Documentação/Img/Prototipo/MyAreas%20-%20alta%20fidelidade.png"/>
+
+###
+
+* <b>Tela Área Selecionada </b>
+<img controls src="https://raw.githubusercontent.com/BuzzTech-API/API_ADS_5SEMESTE_2024.2/main/Documentação/Img/Prototipo/SavedLocation%20-%20alta%20fidelidade.png"/>
+
+###
+
+</details>
+<br>
+
+[GitHub - ClimaTrack](https://github.com/lima2206/ClimaTrack)
 
 #### Tecnologias Utilizadas
-Apresente brevemente as tecnologias utilizadas. Uma tecnologia por linha. Indique qual a importância de cada tecnologia para o projeto.
+
+* React Native: Utilizado no desenvolvimento da versão mobile do aplicativo, proporcionando uma experiência nativa em dispositivos móveis.
+* TypeScript: Utilizado no desenvolvimento front-end, garantindo tipagem estática e maior segurança no código.
+* Figma: Utilizado para a criação de protótipos de baixa e alta fidelidade, ajudando no planejamento visual do sistema.
+* Python: Utilizado no back-end com o framework FastAPI, garantindo performance e fácil manutenção do código.
+* Firebase: Foi utilizado o Firestore para garantir que os dados do sistema pudessem ser acessados offline e também para armazenar todas as informações relacionadas ao aplicativo.
+
 
 #### Contribuições Pessoais
-Apresente suas contribuições no projeto. Foque nas funcionalidades em que você mais atuou. Descreva sua atuação em detalhes, especificando que tecnologias você utilizou.
+No projeto, atuei como desenvolvedor, de início auxiliei na pesquisa e implementação das APIs que seriam utilizadas para o consumo de dados climáticos tanto atuais como históricos, após isso dirigi meu foco ao React Native no desenvolvimento do FrontEnd e implementação do design no código.
 
 #### Hard Skills
-Apresente as hard skills que você utilizou/desenvolveu durante o projeto e o nível de proficiência alcançado. Exemplo: CSS - Sei fazer com autonomia
+Exercitei as seguintes Hard Skills durante esse projeto:
+
+* React Native: uso com autonomia.
+* TypeScript: consigo ensinar.
+* Firebase: uso com autonomia.
+* Python: consigo ensinar.
+* Figma: consigo ensinar.
 
 #### Soft Skills
-Apresente as soft skills que você utilizou/desenvolveu durante o projeto e em quais situações elas foram fundamentais. Exemplo: Comunicação - Precisei exercitar minhas habilidades de comunicação para viabilizar as reuniões semanais levando em conta as disponibilidades dos membros, que não cursavam as mesmas disciplinas.
+No início tivemos muita dificuldade em encontrar uma API com dados concretos e que pudesse ser utilizada livremente, mas com muita *Resiliência* consegui "cavar" os sites da Nasa e achar a API deles, agora ligado a isso outro desafio foi aprender a usar a API em meio de uma documentação muito densa e confusa. Após algumas horas para entender como consumir a API, utilizei da *Empatia e Proatividade* para fazer um tutorial aos meus colegas de Time assim todos saberiam como funciona o consumo daquela API.
 
-### Em 2022-1
-Mesmo formato
+<hr>
 
-### Em 2022-2
-Mesmo formato
-
-### Em 2023-1
-Mesmo formato
-
-### Em 2023-2
-Mesmo formato -->
 
 
 

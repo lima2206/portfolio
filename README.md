@@ -352,8 +352,75 @@ No início tivemos muita dificuldade em encontrar uma API com dados concretos e 
 
 <hr>
 
+<!-- Sexto SEMESTRE -->
+
+### Em 2025-1 - AUXIA - Auxiliary AI Training
+
+*AUXIA* é uma aplicação Web desenvolvida para o parceiro Dom Rock, em colaboração com um pesquisador da área da saúde, com o objetivo de treinar e avaliar modelos de linguagem (LLMs) por meio de feedback humano estruturado. Embora o sistema tenha sido projetado como uma plataforma genérica de RLHF (Reinforcement Learning from Human Feedback), sua aplicação inicial foi voltada ao desenvolvimento de uma LLM especializada no atendimento a cuidadores de pessoas com Alzheimer, com foco em empatia, clareza e apoio prático. 
+
+#### Problema
+
+O parceiro Dom Rock está trabalhando com um pesquisador da área de saúde mental e envelhecimento para desenvolver uma LLM especializada no atendimento a cuidadores de pessoas com Alzheimer, um público que frequentemente lida com situações emocionalmente desafiadoras e precisa de respostas claras, empáticas e seguras. Para alcançar esse nível de refinamento, era necessário um sistema que permitisse comparar respostas geradas por diferentes modelos, avaliar critérios como clareza, empatia e utilidade, e armazenar esses dados para uso em retreinamentos com técnicas como RLHF (Reinforcement Learning from Human Feedback).
+
+#### Solução
+
+Desenvolvemos uma aplicação com backend em *FastAPI (Python)* e frontend em *Vue.js*, onde usuários autenticados podem enviar prompts para dois modelos LLMs simultaneamente, comparar as respostas geradas, avaliá-las segundo critérios definidos (como clareza, exatidão e empatia) e indicar a resposta preferida com justificativa. Todas as interações e avaliações são armazenadas para posterior uso em fine-tuning. A plataforma inclui sistema de autenticação OAuth2, controle administrativo de usuários e rotas exclusivas para testes com e sem RAG (Retrieval-Augmented Generation) para adição de contexto nos prompts.
+
+<details>
+<summary>Detalhes</summary>
+
+* <b>Tela de Chat:</b>
+
+  <img src="https://i.ibb.co/35wCd6wq/Chat.jpg" />
+
+* <b>Tela de Avaliação das Respostas:</b>
+
+  <img src="https://i.ibb.co/SXPY69dr/Avalia-o-b.jpg" />
+
+* <b>Tela de Escolha da Melhor Resposta:</b>
+
+  <img src="https://i.ibb.co/bj7Rwnz1/Avalia-o-Final-b.jpg" />
+
+</details>  
+<br>  
+
+[GitHub - AUXIA](https://github.com/lima2206/AUXIA)
+
+#### Tecnologias Utilizadas
+
+* Python – Utilizado no backend para construção das rotas e integração com LLMs.
+* FastAPI – Framework para criação das rotas e lógica da aplicação backend.
+* Vue.js – Framework frontend utilizado para construção da interface interativa SPA.
+* MongoDB – Banco de dados NoSQL utilizado para persistência de usuários e avaliações.
+* OAuth2 + JWT – Sistema de autenticação e autorização seguro para controle de acesso.
+* ChromaDB – Banco vetorizado utilizado no pipeline de RAG.
+* Figma – Ferramenta usada na prototipagem e documentação visual.
+
+#### Contribuições Pessoais
+
+Atuei como *Desenvolvedor* na primeira sprint, sendo responsável pelo planejamento técnico inicial, estruturação básica do backend com FastAPI, integração com as LLMs públicas via API (Gemini e DeepSeek) e salvamento das avaliações no banco de dados
+Na segunda sprint, assumi o papel de *Scrum Master* após a saída do anterior, reorganizei a equipe junto ao PO, documentei os processos da sprint, refinei o backlog e alinhei as tarefas de desenvolvimento.
+Durante a terceira sprint, continuei como Scrum Master, participei ativamente da revisão / aprovação de código backend e frontend, e trabalhei junto ao Product Owner nos entregáveis do cliente, incluindo **Manual do Usuário**, **Setup de Sistema**, **Relatório de Testes**, **Arquitetura de Sistema** e **API Endpoints**.
+
+#### Hard Skills
+
+Exercitei as seguintes Hard Skills durante esse projeto:
+
+* Python – Consigo ensinar.
+* FastAPI – Consigo ensinar.
+* Vue.js – Uso com autonomia.
+* MongoDB – Uso com autonomia.
+* OAuth2/JWT – Uso com autonomia.
+* Figma – Consigo ensinar.
+* Versionamento Git e Estrutura de Branches – Uso com autonomia.
+
+#### Soft Skills
+
+Durante o projeto enfrentei um cenário de crise organizacional: o Scrum Master anterior não cumpriu com seu papel crucial e foi desligado da função. Com isso, assumi seu papel, estabeleci uma comunicação clara e eficaz com o PO e com os desenvolvedores, reestruturando os rituais ágeis e trazendo novamente organização e foco.
+Além disso, colaborei na mediação de conflitos e na criação de uma cultura mais transparente. Usei minha *Proatividade* e *Capacidade de Adaptação* para redefinir a rota do time. Também exercitei *Responsabilidade* e *Organização* ao coordenar os entregáveis, garantindo qualidade e aderência às expectativas do cliente.
 
 
+<hr>
 
 
 

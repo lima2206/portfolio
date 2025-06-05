@@ -371,15 +371,15 @@ Desenvolvemos uma aplicação com backend em *FastAPI (Python)* e frontend em *V
 
 * <b>Tela de Chat:</b>
 
-  <img src="https://i.ibb.co/35wCd6wq/Chat.jpg" />
+  <img src="https://i.imgur.com/Oh3Bmp6.jpeg" />
 
 * <b>Tela de Avaliação das Respostas:</b>
 
-  <img src="https://i.ibb.co/SXPY69dr/Avalia-o-b.jpg" />
+  <img src="https://i.imgur.com/sW09ETW.jpeg" />
 
 * <b>Tela de Escolha da Melhor Resposta:</b>
 
-  <img src="https://i.ibb.co/bj7Rwnz1/Avalia-o-Final-b.jpg" />
+  <img src="https://i.imgur.com/wAHGzmP.jpeg" />
 
 </details>  
 <br>  

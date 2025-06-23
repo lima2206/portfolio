@@ -95,7 +95,7 @@ Tive um caso de um integrante que não entregava suas tarefas nem interagia com 
 *VAPT* é um Sistema Desktop que automatiza o controle de atividades avaliativas para professores de uma escola estadual, desenvolvido para o Professor Giuliano Bertoti da Fatec de São José dos Campos.
 
 #### Problema
-O Professor Giuliano Bertoti buscava uma forma de automatizar a organização das atividades avaliativas que os professores passavam para os alunos, e junto a isso, uma fora de calcular medias e verificar alunos com entregas atrasadas.
+O Professor Giuliano Bertoti enfrentava dificuldades para organizar, de forma prática e eficiente, as atividades avaliativas aplicadas pelos professores aos alunos de uma escola estadual. O controle manual dessas informações tornava o processo demorado e sujeito a erros, dificultando o acompanhamento das notas, o cálculo de médias e a identificação de alunos com entregas atrasadas. Isso comprometia a agilidade na correção e no feedback, além de dificultar a gestão pedagógica das turmas.
 
 #### Solução
 Como solução, eu e minha equipe desenvolvemos um sistema desktop que permite o usuário cadastrar turmas e seus respectivos alunos, registrar instrumentos avaliativos da disciplina, calcular medias relacionado às atividades entregues. Tudo isso com uma interface gráfica intuitiva e interativa com o uso de gráficos para a expressão dos dados.
@@ -293,10 +293,11 @@ Fiquei particularmente satisfeito com o meu crescimento no entendimento da arqui
 *ClimaTrack* é um Aplicativo Móvel desenvolvido para a empresa Kersys, voltado para agricultores, com o objetivo de monitorar temperatura e pluviosidade em áreas selecionadas, além de oferecer acesso ao histórico climático e alertas personalizados via notificações.
 
 #### Problema
-A empresa Kersys buscava uma solução que permitisse aos usuários cadastrar uma área através de um mapa, e a partir daí, ter acesso a dados climáticos de chuva e temperatura da área e que esses dados pudessem ser de uma data a partir da escolha do usuário. Também era necessário um sistema de notificações e alertas personalizado para que o usuário soubesse se houve alguma flutuação extrema de clima durante um período de tempo, além de ser possível utilizá-lo sem internet.
+Agricultores precisam acompanhar o clima para tomar decisões importantes, como quando plantar, irrigar ou colher. Mas muitos deles não têm acesso fácil a dados confiáveis sobre chuva e temperatura nas suas próprias terras. Eles acabam usando previsões genéricas, que nem sempre mostram a realidade do local, e isso pode causar perdas na produção. Além disso, sem alertas sobre mudanças bruscas no clima, é difícil se preparar para eventos extremos, como tempestades ou secas. Em muitas regiões, a internet também é instável ou inexistente, o que dificulta ainda mais o uso de soluções digitais
 
 #### Solução
-Como solução, eu e minha equipe desenvolvemos um Aplicativo que permite o usuário escolher uma área através de uma interface de mapa ou digitando suas coordenadas e monitorá-la através de gráficos do histórico climático, que também emite alertas em situações críticas configuradas pelo usuário. O aplicativo foi projetado para funcionar sem conexão à internet, garantindo acessibilidade contínua.
+Como solução, eu e minha equipe desenvolvemos um Aplicativo que permite o usuário escolher uma área através de uma interface de mapa ou digitando suas coordenadas e monitorá-la através de gráficos do histórico climático, que também emite alertas de notificação em situações críticas configuradas pelo usuário.
+O aplicativo também foi projetado para funcionar sem conexão à internet, garantindo acessibilidade contínua.
 
 <details>
 <summary>Detalhes</summary>
@@ -356,11 +357,11 @@ No início tivemos muita dificuldade em encontrar uma API com dados concretos e 
 
 ### Em 2025-1 - AUXIA - Auxiliary AI Training
 
-*AUXIA* é uma aplicação Web desenvolvida para o parceiro Dom Rock, em colaboração com um pesquisador da área da saúde, com o objetivo de treinar e avaliar modelos de linguagem (LLMs) por meio de feedback humano estruturado. Embora o sistema tenha sido projetado como uma plataforma genérica de RLHF (Reinforcement Learning from Human Feedback), sua aplicação inicial foi voltada ao desenvolvimento de uma LLM especializada no atendimento a cuidadores de pessoas com Alzheimer, com foco em empatia, clareza e apoio prático. 
+*AUXIA* é uma aplicação Web desenvolvida para o parceiro Dom Rock, que é uma empresa focada em tecnologia, dados e IA, em colaboração com um pesquisador da Unifesp que tem foco na doença de Alzheimer, com o objetivo de treinar e avaliar modelos de linguagem (LLMs) por meio de feedback humano estruturado. Embora o sistema tenha sido projetado como uma plataforma genérica de RLHF (Reinforcement Learning from Human Feedback), sua aplicação inicial foi voltada ao desenvolvimento de uma LLM especializada no atendimento a cuidadores de pessoas com Alzheimer, com foco em empatia, clareza e apoio prático.
 
 #### Problema
 
-O parceiro Dom Rock está trabalhando com um pesquisador da área de saúde mental e envelhecimento para desenvolver uma LLM especializada no atendimento a cuidadores de pessoas com Alzheimer, um público que frequentemente lida com situações emocionalmente desafiadoras e precisa de respostas claras, empáticas e seguras. Para alcançar esse nível de refinamento, era necessário um sistema que permitisse comparar respostas geradas por diferentes modelos, avaliar critérios como clareza, empatia e utilidade, e armazenar esses dados para uso em retreinamentos com técnicas como RLHF (Reinforcement Learning from Human Feedback).
+Cuidadores de pessoas com Alzheimer frequentemente enfrentam situações emocionalmente desgastantes, lidando com estresse, sobrecarga e insegurança na tomada de decisões diárias. Nesse contexto, o uso de assistentes baseados em IA pode ser uma ferramenta valiosa — desde que ofereçam respostas que sejam claras, empáticas e úteis. No entanto, respostas frias, vagas ou confusas geradas por modelos de linguagem podem não apenas falhar em ajudar, como também agravar a ansiedade do cuidador, reforçar sentimentos de isolamento e gerar desconfiança na tecnologia. Para que uma LLM seja realmente eficaz nesse domínio sensível, é essencial que ela seja treinada com base em feedback humano que valorize esses critérios.
 
 #### Solução
 
@@ -417,7 +418,7 @@ Exercitei as seguintes Hard Skills durante esse projeto:
 #### Soft Skills
 
 Durante o projeto enfrentei um cenário de crise organizacional: o Scrum Master anterior não cumpriu com seu papel crucial e foi desligado da função. Com isso, assumi seu papel, estabeleci uma comunicação clara e eficaz com o PO e com os desenvolvedores, reestruturando os rituais ágeis e trazendo novamente organização e foco.
-Além disso, colaborei na mediação de conflitos e na criação de uma cultura mais transparente. Usei minha *Proatividade* e *Capacidade de Adaptação* para redefinir a rota do time. Também exercitei *Responsabilidade* e *Organização* ao coordenar os entregáveis, garantindo qualidade e aderência às expectativas do cliente.
+Além disso, colaborei na mediação de conflitos e na criação de uma cultura mais transparente. Usei minha *Proatividade* e *Capacidade de Adaptação* para redefinir os obejtivos de cada integrante do time através de reuniões indivuais com cada um. Também exercitei *Responsabilidade* e *Organização* ao coordenar os entregáveis, garantindo qualidade e aderência às expectativas do cliente.
 
 
 <hr>
